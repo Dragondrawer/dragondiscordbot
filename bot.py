@@ -76,6 +76,7 @@ async def h():
                     **chris** - More about the amazing Chrissyboi :3
                     **kami** - What is he, really?
                     **cade** - Info about the nice gent :)
+                    **Dragondrawer** - 100millionPERCENTOFSUCCESS
                     **logan** - The best soldier
                     **ivanovic** - A strategist.
                     **rawr** - It's a dragon.. what do you expect?
