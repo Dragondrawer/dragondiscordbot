@@ -75,6 +75,7 @@ async def h():
                     **lucas** - Sniffing ;)
                     **chris** - More about the amazing Chrissyboi :3
                     **kami** - What is he, really?
+                    **Dragondrawer** - 100MILLIONPERCENTOFSUCCESS
                     **cade** - Info about the nice gent :)
                     **logan** - The best soldier
                     **ivanovic** - A strategist.
