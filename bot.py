@@ -74,6 +74,7 @@ async def h():
                     **goodnight** - Happy Dragonscripting! :D
                     **lucas** - Sniffing ;)
                     **chris** - More about the amazing Chrissyboi :3
+                    **Dragondrawer** - A gud boi stuffed with thicc memes :D
                     **kami** - What is he, really?
                     **cade** - Info about the nice gent :)
                     **logan** - The best soldier
